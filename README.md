@@ -54,7 +54,7 @@ To predict how far away a galaxy is (its redshift), we first prepare the data so
 
 Below is an example of a galaxy shown in the five SDSS photometric bands:
 
-![Sample Galaxy Bands](static/galaxy_bands.png.png)
+![Sample Galaxy Bands](static/galaxy_bands.png)
 
 ### Preprocessing
 
@@ -93,7 +93,7 @@ We tested our model on two versions of the dataset:
 
 ### Visualization
 
-![Predicted vs Actual Redshift](static/clipped_v_full.png.png)
+![Predicted vs Actual Redshift](static/clipped_v_full.png)
 
 ---
 
