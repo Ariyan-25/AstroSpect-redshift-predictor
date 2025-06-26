@@ -1,0 +1,11 @@
+tensorflow>=2.9.0
+numpy
+matplotlib
+pandas
+scikit-learn
+opencv-python
+tqdm
+
+# Note: Dataset required
+# Download SDSS DR12 Galaxy Image Cubes (multi-band, 32x32x5) from:
+# https://portal.nersc.gov/project/cosmo/data/sdss/
