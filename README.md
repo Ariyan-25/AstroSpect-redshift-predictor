@@ -35,7 +35,7 @@ Here’s what happens step-by-step:
 
 ---
 
-## Data Pipeline (Simple Explanation)
+## Data Pipeline 
 
 To predict how far away a galaxy is (its redshift), we first prepare the data so our neural network model can understand it.
 
