@@ -100,5 +100,4 @@ We tested our model on two versions of the dataset:
 ## Acknowledgements
 
 - [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/)
-- [NERSC Galaxy Image Cubes Dataset](https://portal.nersc.gov/project/cosmo/data/sdss/)
 - Original research and code structure inspired by peer collaboration.
