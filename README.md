@@ -1,6 +1,6 @@
 # AstroSpect: Predicting Redshift of Celestial Objects from Multi-Band Galaxy Images
 
-A lightweight Convolutional Neural Network (CNN) that estimates **photometric redshift** (photo-z) directly from raw, multi-band galaxy images, trained on data from the **Sloan Digital Sky Survey (SDSS DR12)**. This approach offers a fast, scalable alternative to traditional spectroscopic redshift estimation.
+A lightweight Convolutional Neural Network (CNN) that predicts **photometric redshift** (photo-z) from multi-band galaxy images, trained on data from the **Sloan Digital Sky Survey (SDSS DR12)**. This approach offers a fast, scalable alternative to traditional spectroscopic redshift estimation.
 
 ---
 
